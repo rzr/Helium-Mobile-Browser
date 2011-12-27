@@ -1,3 +1,11 @@
+helium-mobile-browser (0.0.20111227-0rzr1) UNRELEASED; urgency=low
+
+  * http://rzr.online.fr/q/webbrowser# 
+    just published !HarmattaN #DeB of helium-mobile-browser 
+    #Qt #WebKit (#HtmL5Test=226+1) for !N950Club #N9?
+
+ -- Philippe Coval <rzr@gna.org>  Tue, 27 Dec 2011 01:40:23 +0100
+
 helium-mobile-browser (0:0.0.0-0) UNRELEASED; urgency=low
 
   * Initial release (Closes: #nnnn)  <nnnn is the bug number of your ITP>
