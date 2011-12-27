@@ -11,4 +11,5 @@ mobilebrowser-1.0/src/src.pro.user
 mobilebrowser-1.0/src/src.spec
 mobilebrowser-1.0/heliummobilebrowser.spec
 
-
+.pc
+*~
