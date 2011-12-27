@@ -103,7 +103,8 @@ unix:!symbian {
     meego5 {
         target.path = /opt/usr/bin
     } else {
-        target.path = /usr/local/bin
+#       target.path = /usr/local/bin
+       target.path = /usr/bin
     }
     INSTALLS += target
 }
