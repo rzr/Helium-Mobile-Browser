@@ -1,0 +1,5 @@
+helium-mobile-browser (0:0.0.0-0) UNRELEASED; urgency=low
+
+  * Initial release (Closes: #nnnn)  <nnnn is the bug number of your ITP>
+
+ -- Philippe Coval <rzr@gna.org>  Tue, 27 Dec 2011 01:29:33 +0100

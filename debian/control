@@ -1,0 +1,20 @@
+Source: helium-mobile-browser
+Section: unknown
+Priority: extra
+Maintainer: Philippe Coval <rzr@gna.org>
+Build-Depends: debhelper (>= 8.0.0)
+  , libqtwebkit4
+  , libqt4-declarative
+  , libqt4-dev
+  , libqtwebkit-dev
+  , libqtm-sensors-dev
+Standards-Version: 3.9.2
+Homepage: <insert the upstream URL, if relevant>
+#Vcs-Git: git://git.debian.org/collab-maint/helium-mobile-browser.git
+#Vcs-Browser: http://git.debian.org/?p=collab-maint/helium-mobile-browser.git;a=summary
+
+Package: helium-mobile-browser
+Architecture: any
+Depends: ${shlibs:Depends}, ${misc:Depends}
+Description: <insert up to 60 chars description>
+ <insert long description, indented with spaces>
